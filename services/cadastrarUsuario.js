@@ -30,3 +30,4 @@ let pessoa = {
   endereco: "rua das samambaias, 257",
 };
 cadastrarUsuario(pessoa);
+console.log("alou");
